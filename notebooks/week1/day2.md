@@ -26,5 +26,5 @@
 
 ---
 
-> **记录者**: one-year-ai-product-manager-journey 项目负责人  
+> **记录者**: Ray Wong 项目负责人  
 > **时间**: 2025-04-28
