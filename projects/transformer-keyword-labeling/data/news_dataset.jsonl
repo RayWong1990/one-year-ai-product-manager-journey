@@ -1,0 +1,100 @@
+{"text": "新华社正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴与腾讯合作", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "百度宣布新战略", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "新华社推出5G新品", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "华为获得政策扶持", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "工商银行进军海外市场", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "拼多多完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "字节跳动成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国联通正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行接受监管调查", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国移动计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "中国移动计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "中石化成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化宣布新战略", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "字节跳动接受监管调查", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度发布最新产品", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "华为进军海外市场", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "新华社获得政策扶持", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "新华社成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石油进军海外市场", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度被工信部通报", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "京东接受监管调查", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "光明日报完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴与腾讯合作", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "字节跳动完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "腾讯被工信部通报", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度今日发布财报", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行宣布新战略", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "中石油成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "网易将召开发布会", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国移动发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "腾讯发布最新产品", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国电信今日发布财报", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "小米完成新一轮融资", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "网易将召开发布会", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴将召开发布会", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国银行展开激烈竞争", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石油被工信部通报", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "京东获得政策扶持", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国联通计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "新华社今日发布财报", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "建设银行成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "小米推出5G新品", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度被工信部通报", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "网易宣布新战略", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "工商银行推出5G新品", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化将召开发布会", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "国家电网今日发布财报", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "华为获得政策扶持", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "工商银行正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "人民日报计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "农业银行进军海外市场", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "国家电网展开激烈竞争", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国联通计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "工商银行将召开发布会", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行将召开发布会", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "网易展开激烈竞争", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化今日发布财报", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "美团进军海外市场", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "人民日报进军海外市场", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "网易计划裁员", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "中国银行正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "光明日报完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "华为推出5G新品", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行推出5G新品", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度进军海外市场", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国移动正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴与腾讯合作", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "中国联通宣布新战略", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "农业银行成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "小米完成新一轮融资", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "光明日报正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石化成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "新华社获得政策扶持", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "拼多多获得政策扶持", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "小米完成新一轮融资", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "拼多多发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国移动发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "腾讯展开激烈竞争", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "美团将召开发布会", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "美团被工信部通报", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "农业银行被工信部通报", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "工商银行今日发布财报", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国联通计划裁员", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "华为宣布新战略", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "阿里巴巴与腾讯合作", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "小米与腾讯合作", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O"]}
+{"text": "华为正在筹备上市", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "中石油完成新一轮融资", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"text": "中国银行发布最新产品", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "百度获得政策扶持", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "京东计划裁员", "labels": ["B-ORG", "I-ORG", "O", "O", "O", "O"]}
+{"text": "中石油成功研发芯片", "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
+{"text": "工商银行正在筹备上市", "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "O", "O", "O", "O", "O"]}
